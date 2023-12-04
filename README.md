@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🤖 I'm obsessed with robotics 
+- 🍕 I'm learning Italian every day
+- 💚 Athene (the Finnish one)
+
+
 <!--
 **majorgabor/majorgabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
