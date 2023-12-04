@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 😄 I'm fun (trust me, 🤓 I'm an engineer)
-- 🤖 I'm obsessed with robotics 
+- 💻 I'm not ignoring you, I'm coding C++
+- 🤖 I'm obsessed with robotics
 - 🍕 I'm currently learning Italian
 - 💚 Athene (the Finnish one)
 
