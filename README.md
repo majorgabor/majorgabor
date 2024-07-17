@@ -7,6 +7,9 @@
 - 💚 Athene (the Finnish one)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/majorgabor?theme=nord&font=Gowun%20Dodum)
+
+
 <!--
 **majorgabor/majorgabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
